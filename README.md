@@ -1,4 +1,4 @@
-***inside src folder, go to lab7tasks folder, following are the file names
+inside src folder, go to lab7tasks folder, following are the file names
 1. TASK1 - animal.java
 2. TASK2 - shape.java
 3. TASK3 - processPayment.java
