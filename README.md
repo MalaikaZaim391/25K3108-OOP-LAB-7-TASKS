@@ -5,7 +5,6 @@ Create child classes:
 3. Cow
 
 Each class should override the makeSound() method.
-
 Write a Java program to demonstrate runtime polymorphism.
 
 Q2. Create a class Shape with a method area().
@@ -13,6 +12,7 @@ Create subclasses:
 1. Circle
 2. Rectangle
 3. Triangle
+
 Each subclass should override the area() method to calculate its specific area.
 Demonstrate dynamic method binding using a parent class reference.
 
@@ -21,6 +21,7 @@ Create subclasses:
 1. CreditCard
 2. DebitCard
 3. PayPal
+
 Override the method in each class to display different payment processing messages.
 
 Q4. Create a parent class Employee with method calculateSalary().
@@ -28,6 +29,7 @@ Create subclasses:
 1. Manager
 2. Developer
 3. Intern
+
 Each subclass should override the method with different salary calculations.
 
 Q5. Create a class Notification with method send().
@@ -35,6 +37,7 @@ Create subclasses:
 1. EmailNotification
 2. SMSNotification
 3. PushNotification
+
 Each subclass should override the method and display a different notification message.
 
 Q6. Create a parent class Transport with method fare().
@@ -42,6 +45,7 @@ Create subclasses:
 1. Bus
 2. Train
 3. Taxi
+
 Each class should override the fare() method and display different fare calculations.
 
 Q7. A food delivery application allows customers to order food from different types of
