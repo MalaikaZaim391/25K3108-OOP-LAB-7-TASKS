@@ -1,14 +1,14 @@
 ### inside src folder, go to lab7tasks folder, following are the file names
-1. TASK1 - animal.java
-2. TASK2 - shape.java
-3. TASK3 - processPayment.java
-4. TASK4 - employee.java
-5. TASK5 - notification.java
-6. TASK6 - transport.java
-7. TASK7 - restaurant.java
-8. TASK8 - smartDevice.java
-9. TASK9 - ride.java
-10. TASK10 - course.java
+1. TASK1 - Animal.java
+2. TASK2 - Shape.java
+3. TASK3 - Payment.java
+4. TASK4 - Employee.java
+5. TASK5 - Notification.java
+6. TASK6 - Transport.java
+7. TASK7 - Restaurant.java
+8. TASK8 - SmartDevice.java
+9. TASK9 - Ride.java
+10. TASK10 - Course.java
 
 # LAB 07 TASKS
 
