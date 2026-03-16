@@ -1,4 +1,4 @@
-###inside src folder, go to lab7tasks folder, following are the file names
+***inside src folder, go to lab7tasks folder, following are the file names
 1. TASK1 - animal.java
 2. TASK2 - shape.java
 3. TASK3 - processPayment.java
@@ -10,7 +10,7 @@
 9. TASK9 - ride.java
 10. TASK10 - course.java
 
-#LAB 07 TASKS
+**LAB 07 TASKS
 
 Q1. Create a parent class Animal with a method makeSound().
 Create child classes:
