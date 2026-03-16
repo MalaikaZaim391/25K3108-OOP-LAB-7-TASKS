@@ -3,7 +3,9 @@ Create child classes:
 1. Dog
 2. Cat
 3. Cow
+
 Each class should override the makeSound() method.
+
 Write a Java program to demonstrate runtime polymorphism.
 
 Q2. Create a class Shape with a method area().
